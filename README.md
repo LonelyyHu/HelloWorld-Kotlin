@@ -22,3 +22,4 @@
 
 ### 3RD Librarys
 [Koin的效能不好，為什麼](https://tech.pic-collage.com/koin-%E7%9A%84%E6%95%88%E8%83%BD%E4%B8%8D%E5%A5%BD-%E7%82%BA%E4%BB%80%E9%BA%BC-98390ec3cd11)
+[告别Dagger2，Android的Kotlin项目中使用Kodein进行依赖注入](https://blog.csdn.net/mq2553299/article/details/82258623)
