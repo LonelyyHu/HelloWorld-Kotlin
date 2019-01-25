@@ -1,5 +1,7 @@
 # HelloWorld Kotlin
 
+[Kotlin programmer dictionary](https://blog.kotlin-academy.com/kotlin-programmer-dictionary-2cb67fff1fe2) . 
+
 ### Sealed Class  
 [Sealed classes in Kotlin: enums with super-powers](https://antonioleiva.com/sealed-classes-kotlin/)
 
